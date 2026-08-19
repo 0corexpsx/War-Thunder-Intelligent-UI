@@ -1,7 +1,7 @@
 # War Thunder Intelligent UI
 Initial release — alpha 0.1
 
-Disclaimer
+-----------> Disclaimer "It is an awareness tool, not a cheat" <--------------
 
 This is an unofficial fan-made tool, not affiliated with, endorsed by, or connected to Gaijin Entertainment. War Thunder is a trademark of Gaijin Entertainment. This tool only reads the localhost interface that the game itself provides for second-screen use.
 War Thunder Intelligent UI
