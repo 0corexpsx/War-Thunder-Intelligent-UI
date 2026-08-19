@@ -6,6 +6,8 @@ Disclaimer
 This is an unofficial fan-made tool, not affiliated with, endorsed by, or connected to Gaijin Entertainment. War Thunder is a trademark of Gaijin Entertainment. This tool only reads the localhost interface that the game itself provides for second-screen use.
 War Thunder Intelligent UI
 
+![alt text]([http://url/to/img.png](https://github.com/0corexpsx/War-Thunder-Intelligent-UI/blob/main/1Enz61M71v.jpg))
+
 Tactical map, instruments, live scoreboard, ghosts and proximity alerts for War Thunder — on your second monitor.
 
 Native Windows app (C++ / Dear ImGui / DirectX 11). It reads the game's official local telemetry server (localhost:8111): no memory reading, no injection, no ban risk. It only shows enemies the game has already spotted — the same information as the in-game minimap.
