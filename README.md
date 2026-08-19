@@ -6,7 +6,7 @@ Disclaimer
 This is an unofficial fan-made tool, not affiliated with, endorsed by, or connected to Gaijin Entertainment. War Thunder is a trademark of Gaijin Entertainment. This tool only reads the localhost interface that the game itself provides for second-screen use.
 War Thunder Intelligent UI
 
-![alt text]([http://url/to/img.png](https://github.com/0corexpsx/War-Thunder-Intelligent-UI/blob/main/1Enz61M71v.jpg))
+![War Thunder Intelligent UI](1Enz61M71v.jpg)
 
 Tactical map, instruments, live scoreboard, ghosts and proximity alerts for War Thunder — on your second monitor.
 
@@ -15,6 +15,8 @@ Native Windows app (C++ / Dear ImGui / DirectX 11). It reads the game's official
 Why not just open localhost:8111 in a browser?
 
 War Thunder ships a basic web page on localhost:8111 (map + simple flight instruments). This app uses the same data source, but turns it into an actual second-screen tool:
+
+![War Thunder Intelligent UI](P6mOxQanHe.jpg)
 
 	Stock 8111 web page	War Thunder Intelligent UI
 Tactical map	basic, fixed view	zoom, pan, FOLLOW your vehicle, marker size control
